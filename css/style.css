@@ -41,6 +41,8 @@ section .heading h2{
     text-transform: uppercase;
 }
 
+
+
 section{
     padding: 45px 0 80px 0;
 }
@@ -94,6 +96,18 @@ ul,ol{
 #about .heading h3{
     color: #000;
     
+}
+
+#about .heading h6{
+    margin: 30px auto 5px;
+    color: #fff;
+    text-transform: uppercase;
+
+}
+
+#about .heading p2{
+    margin: 30px auto;
+
 }
 
 .button1{
